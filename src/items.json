@@ -1,0 +1,82 @@
+[
+  {
+   "id": "1",
+   "title": "T shirt regular",
+   "price": 25,
+   "imgURL": {
+    "#000000": "../product/men/1/000000.jpg",
+    "#FF050B": "../product/men/1/FF050B.jpg"
+   },
+   "cardStatus": false,
+   "size": "xs s m l",
+   "color": "#000000 #FF050B",
+   "text": "WHAT IS A REGULAR FIT T-SHIRT? A regular fit T-shirt usually hugs snuggly around the body while leaving adequate room for comfort in the sleeves and waist. The right size regular fit T-shirt is loose, but not too much to the point of being sloppy or over-the-top."
+  },
+  {
+   "id": "2",
+   "title": "T shirt with print on front",
+   "price": 35,
+   "imgURL": {
+    "#000000": "../product/men/2/000000.webp",
+    "#FFFFFF": "../product/men/2/FFFFFF.webp"
+   },
+   "cardStatus": false,
+   "size": "xs s m l",
+   "color": "#000000 #FFFFFF",
+   "text": "DTG stands for direct to garment printing. You may also occasionally see this method called DTF, or direct to fabric printing. The process does exactly what it sounds like–a special printer applies a thin ink right onto the fabric of the t-shirt!"
+  },
+  {
+   "id": "3",
+   "title": "T shirt basic",
+   "price": 20,
+   "imgURL": {
+    "#007A11": "../product/men/3/007A11.webp",
+    "#FF050B": "../product/men/3/FF050B.webp",
+    "#FFCFDC": "../product/men/3/FFCFDC.webp",
+    "#FFF60A": "../product/men/3/FFF60A.webp"
+   },
+   "cardStatus": false,
+   "size": "xs s m l",
+   "color": "#007A11 #FFCFDC #FF050B #FFF60A",
+   "text": "A T-shirt, or tee, is a style of fabric shirt named after the T shape of its body and sleeves. Traditionally, it has short sleeves and a round neckline, known as a crew neck, which lacks a collar. T-shirts are generally made of a stretchy, light, and inexpensive fabric and are easy to clean. The T-shirt evolved from undergarments used in the 19th century and, in the mid-20th century, transitioned from undergarment to general-use casual clothing."
+  },
+  {
+   "id": "4",
+   "title": "Shirt super slim fit",
+   "price": 40,
+   "imgURL": {
+    "#000000": "../product/men/4/000000.webp",
+    "#FFFFFF": "../product/men/4/FFFFFF.webp"
+   },
+   "cardStatus": false,
+   "size": "xs s m l",
+   "color": "#000000 #FFFFFF",
+   "text": "The Extra Slim has a bit too much room in the waist and chest, but not to the point of it being worth having it altered. The wrist is a bit too wide on both fits."
+  },
+  {
+   "id": "5",
+   "title": "Denim jacket",
+   "price": 60,
+   "imgURL": {
+    "#5C75BB": "../product/men/5/5C75BB.webp",
+    "#9C9C9C": "../product/men/5/9C9C9C.webp",
+    "#FFFFFF": "../product/men/5/FFFFFF.webp"
+   },
+   "cardStatus": false,
+   "size": "xs s m l",
+   "color": "#FFFFFF #5C75BB #9C9C9C",
+   "text": "A denim jacket, also called a jean jacket or trucker jacket, is a jacket made from denim. Introduced in the United States in the late 19th century, it has been a popular type of casual apparel with both men and women and has been described as an iconic element of American fashion. Though a staple of western wear, the denim jacket has also enjoyed a more general appeal."
+  },
+  {
+   "id": "6",
+   "title": "Belted coat",
+   "price": 75,
+   "imgURL": {
+    "#000000": "../product/men/6/000000.webp"
+   },
+   "cardStatus": false,
+   "size": "xs s m l",
+   "color": "#000000",
+   "text": "A nod to leisurewear, this belted coat from Reserved is made from a black silk shell with electric blue piping throughout, complete with warm light padding."
+  }
+ ]

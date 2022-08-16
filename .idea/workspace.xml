@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3255810c-7d8e-4a78-8537-c18a6182494e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/my-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/btn-checkout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/btn-checkout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/btn-main-page.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/btn-tick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/btn-view-bag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/img-a-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/img-cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/img-currency.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/img-emoji-empty-cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/img-green-cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/img-grey-cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/img-sad-emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/kids/1/000000.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/men/1/000000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/men/1/FF050B.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/men/2/000000.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/men/2/FFFFFF.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/men/3/007A11.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/men/3/FF050B.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/men/3/FFCFDC.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/men/3/FFF60A.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/men/4/000000.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/men/4/FFFFFF.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/men/5/000000.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/men/5/5C75BB.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/men/5/9C9C9C.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/men/6/000000.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/women/1/000000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/women/1/8BA597.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/women/1/DC3272.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Color.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Size.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/context.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/CardPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/cards/Card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/cards/Cards.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/cart/CartItems.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/cart/TotalCart.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/drawer/Drawer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/drawer/DrawerCart.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/items.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/App.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Header.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/pages/CardPage.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/pages/cards/Card.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/pages/cards/Cards.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/pages/drawer/Drawer.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/pages/drawer/DrawerCart.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/index.scss" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CtL1Y48uyVsE147baHlOOq2s5M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/React/----/junior-react-test&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\React\----\junior-react-test\src\components" />
+      <recent name="C:\React\my-app\src\components\pages\drawer" />
+      <recent name="C:\React\my-app\src\components\pages\Cards" />
+      <recent name="C:\React\my-app\src\components\pages" />
+      <recent name="C:\React\my-app\src\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3255810c-7d8e-4a78-8537-c18a6182494e" name="Changes" comment="" />
+      <created>1659616726988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659616726988</updated>
+      <workItem from="1659616732079" duration="9032000" />
+      <workItem from="1659641079318" duration="517000" />
+      <workItem from="1659686557479" duration="11000" />
+      <workItem from="1659955439000" duration="18877000" />
+      <workItem from="1660034054123" duration="20470000" />
+      <workItem from="1660131782192" duration="753000" />
+      <workItem from="1660138458911" duration="14230000" />
+      <workItem from="1660207237559" duration="311000" />
+      <workItem from="1660208087510" duration="12670000" />
+      <workItem from="1660292480350" duration="17229000" />
+      <workItem from="1660326826402" duration="627000" />
+      <workItem from="1660329515164" duration="6363000" />
+      <workItem from="1660379582166" duration="17897000" />
+      <workItem from="1660498989090" duration="7686000" />
+      <workItem from="1660523364219" duration="5143000" />
+      <workItem from="1660561071280" duration="5782000" />
+      <workItem from="1660656034232" duration="1682000" />
+      <workItem from="1660657766873" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
